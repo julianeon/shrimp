@@ -64,7 +64,7 @@ function Imager() {
             <Footer>            
               <p>You clicked {count} times</p>
               <button onClick={handleSubmit}>
-                Click me
+                Get shrimp
               </button>
             </Footer>
             </>
